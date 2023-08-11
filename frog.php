@@ -6,7 +6,7 @@
         public function get_jump() 
         {
             echo "Jump : ";
-            return $this->jump = "hop hop" . "<br>";
+            return $this->jump = "Hop Hop" . "<br>";
         }
     }
 ?>
