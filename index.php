@@ -13,7 +13,7 @@
     //Release 1
     $kodok = new Frog("buduk", 4);
     echo $kodok->get_name();
-    echo $sheep->get_legs();
+    echo $kodok->get_legs();
     echo $kodok->get_cold_blooded();
     echo $kodok->get_jump() . "<br>";
 
